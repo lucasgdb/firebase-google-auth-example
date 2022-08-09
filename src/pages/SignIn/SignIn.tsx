@@ -34,9 +34,9 @@ export default function SignIn() {
       <h1>Acesse sua conta</h1>
 
       <span>
-        Utilizando autenticação social, por exemplo, autenticação com a Google
-        você <br /> facilita a vida do usuário permitindo utlizar sua aplicação
-        sem fazer cadastro.
+        Utilizando autenticação social, como por exemplo, a autenticação com a
+        Google, você <br /> facilita a vida do usuário permitindo utlizar sua
+        aplicação sem fazer cadastro.
       </span>
 
       <button type="button" className="button" onClick={handleGoogleSignIn}>
